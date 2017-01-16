@@ -1,0 +1,33 @@
+{
+  "name": "jquery-translate3d",
+  "version": "1.1.3",
+  "authors": [
+    "Florian Biewald <f.biewald@googlemail.com>"
+  ],
+  "description": "jQuery plugin that transforms HTML-elements depending on the previous transformation.",
+  "main": "jquery-translate3d.js",
+  "keywords": [
+    "jquery",
+    "javascript",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "flodev.blogspot.com",
+  "dependencies": {
+    "jquery": ""
+  },
+  "devDependencies": {
+    "jasmine": "1.3.1",
+    "jasmine-jquery": "1.5.93"
+  },
+  "_release": "1.1.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.3",
+    "commit": "0dcb247ca3212ac3b4bfcfe04f0e862e4dc7ddd8"
+  },
+  "_source": "https://github.com/flodev/jquery-translate3d.git",
+  "_target": "^1.1.3",
+  "_originalSource": "jquery-translate3d",
+  "_direct": true
+}

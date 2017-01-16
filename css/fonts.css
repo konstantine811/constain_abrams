@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'Gost';
+	src: url('../fonts/Gost/Gost.eot');
+	src: url('../fonts/Gost/Gost.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Gost/Gost.woff') format('woff'),
+		 url('../fonts/Gost/Gost.ttf') format('truetype'),
+		 url('../fonts/Gost/Gost.svg') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'GostA';
+	src: url('../fonts/GostA/mipgost.eot');
+	src: url('../fonts/GostA/mipgost.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/GostA/mipgost.woff') format('woff'),
+		 url('../fonts/GostA/mipgost.ttf') format('truetype'),
+		 url('../fonts/GostA/mipgost.svg') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Break';
+	src: url('../fonts/Break/break extralight.eot');
+	src: url('../fonts/Break/break extralight.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Break/break extralight.woff') format('woff'),
+		 url('../fonts/Break/break extralight.ttf') format('truetype'),
+		 url('../fonts/Break/break extralight.svg') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Walls';
+	src: url('../fonts/TT Walls Rough Bold/TT Walls Rough Bold DEMO.eot');
+	src: url('../fonts/TT Walls Rough Bold/TT Walls Rough Bold DEMO.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/TT Walls Rough Bold/TT Walls Rough Bold DEMO.woff') format('woff'),
+		 url('../fonts/TT Walls Rough Bold/TT Walls Rough Bold DEMO.ttf') format('truetype'),
+		 url('../fonts/TT Walls Rough Bold/TT Walls Rough Bold DEMO.svg') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Esqadero';
+	src: url('../fonts/Esqadero/Esqadero_FF_CY_4F.eot');
+	src: url('../fonts/Esqadero/Esqadero_FF_CY_4F.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Esqadero/Esqadero_FF_CY_4F.woff') format('woff'),
+		 url('../fonts/Esqadero/Esqadero_FF_CY_4F.ttf') format('truetype'),
+		 url('../fonts/Esqadero/Esqadero_FF_CY_4F.svg') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
